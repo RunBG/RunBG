@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @RunBG
-- 👀 I’m interested in Data 
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on studying
-- 📫 How to reach me huudatkt62@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
 
-<!---
-RunBG/RunBG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[in/pth11](https://www.linkedin.com/in/pth11/) - huudatkt62@gmail.com
+***
+### **Technical Skills**
+- SQL: MySQL, PostgreSQL, Google BigQuery, Microsoft SQL Server
+- Power BI: DAX, Power Query, Data Modeling
+- Python: Pandas, NumPy, MatPlotLib, Seaborn
+***
+### **Projects for sharing**
+
+
+***
+### **Work experience**
+**Gradients Technologies** - Data Annotation (_October 2024 - Present_)
+
+***
+### **Education & Certificates**
+**Ho Chi Minh city Open University** - Information Technology (_September 2021 - Now_)
+
+GPA 6.5/10. Related coursework:  Data Analytics
+
+**Certificate of Accomplishment SQL (Advanced)** - HackerRank (_November 2023_)
+
+[My certificates](https://drive.google.com/drive/folders/16_1Z4JNGYq5xh54CKEUZ7Tja7tMvjwmP?usp=sharing)
