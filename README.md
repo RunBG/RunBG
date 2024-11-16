@@ -1,6 +1,6 @@
 
 
-[in/pth11](https://www.linkedin.com/in/dat-tran-2202dt/) - huudatkt62@gmail.com
+[in/trandat](https://www.linkedin.com/in/dat-tran-2202dt/) - huudatkt62@gmail.com
 ***
 ### **Technical Skills**
 - SQL: MySQL, PostgreSQL, Google BigQuery, Microsoft SQL Server
