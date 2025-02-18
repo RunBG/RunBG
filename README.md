@@ -22,4 +22,4 @@ GPA 6.5/10. Related coursework:  Data Analytics
 
 **Certificate of Accomplishment SQL (Advanced)** - HackerRank (_November 2023_)
 
-[My certificates](https://drive.google.com/drive/folders/16_1Z4JNGYq5xh54CKEUZ7Tja7tMvjwmP?usp=sharing)
+[My certificates](https://drive.google.com/drive/folders/1IZ4EsTBOSL6bIzD_D_-OMqfRk6RAvLz7?usp=sharing)
