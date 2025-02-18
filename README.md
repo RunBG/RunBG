@@ -6,19 +6,24 @@
 - SQL: MySQL, PostgreSQL, Google BigQuery, Microsoft SQL Server
 - Power BI: DAX, Power Query, Data Modeling
 - Python: Pandas, NumPy, MatPlotLib, Seaborn
+- Machine Learning: Unsupervised Learning, Supervised Learning with Scikit-learn
 ***
 ### **Projects for sharing**
 
 
 ***
 ### **Work experience**
-**Gradients Technologies** - Data Annotation (_October 2024 - Present_)
+**Gradients Technologies** - Data Annotation Intern (_October 2024 - December 2024_)
 
 ***
 ### **Education & Certificates**
 **Ho Chi Minh city Open University** - Information Technology (_September 2021 - Now_)
 
-GPA 6.5/10. Related coursework:  Data Analytics
+Related coursework:  Data Analytics
+
+**Data Analyst Coaching 1 on 1 Program** - Unigap (_February 2025_)
+
+Completed 16 Datacamp courses and finished 8 hands-on projects from beginner to advanced level (SQL, Power BI, Python, Machine Learning); Joined problem-solving and design thinking training sessions
 
 **Certificate of Accomplishment SQL (Advanced)** - HackerRank (_November 2023_)
 
