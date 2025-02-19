@@ -13,7 +13,15 @@
 <a href="https://github.com/RunBG/SQL_Ecommerce_Exploring">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RunBG&repo=SQL_Ecommerce_Exploring&theme=radical" />
-</a>    
+</a>
+<a href="https://github.com/RunBG/SQL_Bicycle-Manufacturer">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RunBG&repo=SQL_Bicycle-Manufacturer&theme=merko" />
+</a>   
+<a href="https://github.com/RunBG/PBI_Purchasing-Analysi">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RunBG&repo=PBI_Purchasing-Analysis&theme=gruvbox" />
+</a>   
  
 
 ***
