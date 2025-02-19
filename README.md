@@ -18,7 +18,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RunBG&repo=SQL_Bicycle-Manufacturer&theme=merko" />
 </a>   
-<a href="https://github.com/RunBG/PBI_Purchasing-Analysi">
+<a href="https://github.com/RunBG/PBI_Purchasing-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RunBG&repo=PBI_Purchasing-Analysis&theme=gruvbox" />
 </a>   
