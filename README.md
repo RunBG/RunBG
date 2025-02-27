@@ -12,19 +12,19 @@
 
 <a href="https://github.com/RunBG/SQL_Ecommerce_Exploring">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RunBG&repo=SQL_Ecommerce_Exploring&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RunBG&repo=SQL_Ecommerce_Exploring&theme=vue-dark" />
 </a>
 <a href="https://github.com/RunBG/SQL_Bicycle-Manufacturer">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RunBG&repo=SQL_Bicycle-Manufacturer&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RunBG&repo=SQL_Bicycle-Manufacturer&theme=vue-dark" />
 </a>   
 <a href="https://github.com/RunBG/PBI_Purchasing-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RunBG&repo=PBI_Purchasing-Analysis&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RunBG&repo=PBI_Purchasing-Analysis&theme=vue-dark" />
 </a>   
 <a href="https://github.com/RunBG/PBI-User-Churn-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RunBG&repo=PBI-User-Churn-Analysis&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RunBG&repo=PBI-User-Churn-Analysis&theme=vue-dark" />
 </a>  
 
 ***
