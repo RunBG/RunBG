@@ -1,13 +1,13 @@
 
 
 [in/trandat](https://www.linkedin.com/in/dat-tran-2202dt/) - huudatkt62@gmail.com
-***
+
 ### **Technical Skills**
 - SQL: MySQL, PostgreSQL, Google BigQuery, Microsoft SQL Server
 - Power BI: DAX, Power Query, Data Modeling
 - Python: Pandas, NumPy, MatPlotLib, Seaborn
 - Machine Learning: Unsupervised Learning, Supervised Learning with Scikit-learn
-***
+
 ### **Projects for sharing**
 
 <a href="https://github.com/RunBG/SQL_Ecommerce_Exploring">
