@@ -22,7 +22,10 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RunBG&repo=PBI_Purchasing-Analysis&theme=gruvbox" />
 </a>   
- 
+<a href="https://github.com/RunBG/PBI-User-Churn-Analysis">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RunBG&repo=PBI-User-Churn-Analysis&theme=tokyonight" />
+</a>  
 
 ***
 ### **Work experience**
